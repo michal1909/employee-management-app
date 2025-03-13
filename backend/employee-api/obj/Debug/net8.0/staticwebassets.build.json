@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sofEywDGJWwf5YIcL4ctthDBzV/TsW72rRM7U6fDwl8=",
+  "Source": "employee-api",
+  "BasePath": "_content/employee-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

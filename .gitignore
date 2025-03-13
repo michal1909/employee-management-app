@@ -1,0 +1,8 @@
+# Ignorowanie plików Visual Studio
+backend/.vs/
+backend/bin/
+backend/obj/
+
+# Ignorowanie node_modules w Angularze
+frontend/node_modules/
+frontend/dist/
